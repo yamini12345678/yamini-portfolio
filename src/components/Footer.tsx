@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      url: 'linkedin.com/in/yamini-bathula-743a2b251',
+      url: 'https://linkedin.com/in/yamini-bathula-743a2b251',
       color: 'hover:text-blue-400'
     },
     {
